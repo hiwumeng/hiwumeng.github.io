@@ -1,7 +1,7 @@
 body {
      margin:         auto;
      background-color: #eee;
-     font-size:      13pt;
+     font-size:      12pt;
 	   padding-left:   5pt;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 #profile img{
-    width: 200px;
+    width: 155;
     max-height: 300px;
     margin: 8 20 20 20;
     object-fit: contain;
