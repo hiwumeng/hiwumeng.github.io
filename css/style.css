@@ -99,7 +99,8 @@ img {
 #paper {
     border-bottom: solid 1px #EEE;
     /* margin-bottom: 20px; */
-    max-height: 120px;
+    /* max-height: 120px; */
+    min-height: 90px;
     align-items: center;
 }
 
