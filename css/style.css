@@ -169,6 +169,12 @@ a:active {
   content: "\f085"
 }
 
+#paper .coming{
+  font-family: FontAwesome;
+  font-style: italic;
+  color: gray;
+  margin: 5 5 5 5;
+}
 
 #paper .eccv::before {
   content: "European Conference on Computer Vision (ECCV), "
@@ -192,4 +198,8 @@ a:active {
 
 #paper .arxiv::before {
   content: "Arxiv Tech Report, "
+}
+
+#paper .tip::before{
+  content: "IEEE Transactions on Image Processing (TIP), "
 }
