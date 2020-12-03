@@ -104,6 +104,16 @@ a:active {
     font-size: 14px;
 }
 
+.edu img{
+  height: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.edu p {
+  display: inline-block;
+}
+
 /*  Paper styles
     FontAwesome reference: http://astronautweb.co/snippet/font-awesome/
 --------------------------------------*/
