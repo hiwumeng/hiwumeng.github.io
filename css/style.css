@@ -150,6 +150,12 @@ a:active {
     font-style: italic;
 }
 
+#paper .author_me {
+    color: #943126;
+    font-style: italic;
+    font-weight: bold;
+}
+
 #paper .venue {
     display: inline-block;
     color: #500;
