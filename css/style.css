@@ -124,7 +124,8 @@ a:active {
 --------------------------------------*/
 #paper {
     border-bottom: solid 1px #EEE;
-    /* margin-bottom: 20px; */
+    margin-bottom: 10px;
+    margin-top: 10px;
     /* max-height: 120px; */
     min-height: 100px;
     align-items: center;
@@ -140,6 +141,7 @@ a:active {
 #paper .title {
     padding: 1px;
     margin: 1px;
+    font-size: 13pt;
     font-weight: bold;
 }
 
