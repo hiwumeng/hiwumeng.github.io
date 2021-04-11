@@ -148,7 +148,7 @@ a:active {
 #paper .authors {
     padding: 1px;
     margin: 1px;
-    color: #1F618D;
+    /* color: #1F618D; */
     font-style: italic;
 }
 
@@ -160,7 +160,7 @@ a:active {
 
 #paper .venue {
     display: inline-block;
-    color: #500;
+    /* color: #500; */
     margin: 2px;
     margin-right: 10px;
 }
