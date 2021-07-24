@@ -204,6 +204,15 @@ a:active {
   content: "European Conference on Computer Vision (ECCV), "
 }
 
+
+#paper .iccv::before {
+  content: "International Conference on Computer Vision (ICCV), "
+}
+
+#paper .cvpr::before {
+  content: "Computer Vision and Pattern Recognition (CVPR), "
+}
+
 #paper .aaai::before {
   content: "AAAI Conference on Artificial Intelligence (AAAI), "
 }
