@@ -176,6 +176,7 @@ a:active {
     /* color: #500; */
     margin: 2px;
     margin-right: 10px;
+    font-size: 12pt;
 }
 
 #paper .pdflink::before{
@@ -215,46 +216,37 @@ a:active {
 
 #paper .eccv::before {
   content: "European Conference on Computer Vision (ECCV), ";
-  font-size: 12pt;
 }
 
 
 #paper .iccv::before {
   content: "International Conference on Computer Vision (ICCV), ";
-  font-size: 12pt;
 }
 
 #paper .cvpr::before {
   content: "Computer Vision and Pattern Recognition (CVPR), ";
-  font-size: 12pt;
 }
 
 #paper .aaai::before {
   content: "AAAI Conference on Artificial Intelligence (AAAI), ";
-  font-size: 12pt;
 }
 
 #paper .accv::before {
   content: "Asia Conference on Computer Vision (ACCV), ";
-  font-size: 12pt;
 }
 
 #paper .bmvc::before {
   content: "British Machine Vision Conference (BMVC), ";
-  font-size: 12pt;
 }
 
 #paper .wacv::before {
   content: "IEEE Winter Conference on Applications of Computer Vision (WACV), ";
-  font-size: 12pt;
 }
 
 #paper .arxiv::before {
   content: "Arxiv Tech Report, ";
-  font-size: 12pt;
 }
 
 #paper .tip::before{
   content: "IEEE Transactions on Image Processing (TIP), ";
-  font-size: 12pt;
 }
