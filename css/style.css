@@ -191,6 +191,10 @@ a:active {
     font-size: 12pt;
 }
 
+#paper .arxivbadge {
+  content: url("https://img.shields.io/badge/arXiv-Paper-blue.svg")
+}
+
 #paper .pdflink::before{
   font-family: FontAwesome;
   color: black;
