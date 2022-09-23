@@ -152,6 +152,20 @@ a:active {
   width: 200px;
 }
 
+#paper .imgbadge{
+  max-height: 25px;
+  max-width: 85px;
+  float: left;
+  margin: 5px 5px 5px 0px;
+}
+
+#paper .prjbadge{
+  max-height: 25px;
+  max-width: 140px;
+  float: left;
+  margin: 5px 5px 5px 0px;
+}
+
 #paper .title {
     margin: 1px;
     font-size: 13pt;
