@@ -192,7 +192,7 @@ a:active {
 }
 
 #paper .arxivbadge {
-  content: url("https://img.shields.io/badge/arXiv-Paper-blue?style=flat-square")
+  content: url("https://img.shields.io/badge/arXiv-Paper-e9f1f6?style=flat-square")
 }
 
 #paper .pdflink::before{
