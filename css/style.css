@@ -14,8 +14,8 @@ h1   {
 h2   {
      font-size:      17pt;
      font-style:     normal;
-     /* border-bottom: solid 1px #A9A9A9; */
-     color: Brown;
+     /* border-bottom: solid 1px #95d0fc; */
+     color: royalblue;
 }
 
 img {
@@ -78,7 +78,7 @@ a:active {
 }
 
 #profile img{
-    width: 155;
+    width: 180;
     max-height: 300px;
     margin: 8 20 20 20;
     object-fit: contain;
